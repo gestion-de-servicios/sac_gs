@@ -1,0 +1,49 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="registro_curricular" id="15E95DA8-25BA-3A02-11A8-8527894FCED0" version="3.5">
+<createdBy>Usuario</createdBy>
+<createdTime>2023-03-22 13:52:20 UTC</createdTime>
+<ownerDesignName>SAC 2010</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>15E95DA8-25BA-3A02-11A8-8527894FCED0</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="0B128919-BF4E-5B9F-684D-A96ADE0CA80A">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="7A70A952-FBD8-E061-90D1-50BC6234A391">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="FD511ADE-10D2-24FF-470F-294693B3BA4A">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="2F3D06CB-A15A-D88E-7D20-3F9940D1CABE">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="56844D0A-4ADE-8091-BB24-D7BACD115412">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="8B3B87F8-747E-0A43-4480-5D19866EB47A">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="2687C3B2-84BF-F458-F356-3458DF60C3BF">
+<designStoragePath>C:\Users\Usuario\Desktop\Modelos</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="838948E4-6115-86DD-172D-FD444EFC68AB">
+<designStoragePath>C:\Users\Usuario\Universidad de Concepción\Gestión de Servicios - Documentos\Modelos\SAC2010</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="DABCEBF9-E9BE-AFEC-1CE0-5F1BF30B1CD1">
+<designStoragePath>C:\Users\Usuario\Universidad de Concepción\Gestión de Servicios - Documentos\Modelos\SAC2010</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="18D2161D-7DFA-FE70-62F2-49AC26CEB68C">
+<designStoragePath>C:\Users\Usuario\Universidad de Concepción\Gestión de Servicios - Documentos\Modelos\SAC2010</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="A579454A-8048-C4FD-50C4-91F9A85E8CB9">
+<designStoragePath>C:\Users\Usuario\Universidad de Concepción\Gestión de Servicios - Documentos\Modelos\SAC2010</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="9D5AAC2B-584D-E617-E07B-103D0244A80E">
+<designStoragePath>C:\Users\Usuario\Universidad de Concepción\Gestión de Servicios - Documentos\Modelos\SAC2010</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="0F882547-2A64-BB4D-37A5-2C9D7D330ADC">
+<designStoragePath>C:\raraneda\datamodeler\trabajo_subversion\sac2010</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
